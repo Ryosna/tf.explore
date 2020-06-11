@@ -36,3 +36,6 @@ y_train = dftrain.pop('survived') #takes the "survived" column and removes/pops 
 y_eval = dfeval.pop('survived')
 # print(dftrain.loc[0], y_train.loc[0]) #locating row 0 
 # print(dftrain.shape) #prints (627,9) meaning it has 627 rows and 9 collumns of data
+
+
+# please give me chicken today god
